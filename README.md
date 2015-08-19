@@ -28,7 +28,7 @@ Kills all loaded hostile mobs
 
 Feeds all online players
 
-### /feed <player name>
+### /feed \<player name>
 
 Feeds the specific player
 
@@ -36,7 +36,7 @@ Feeds the specific player
 
 Heals all online players
 
-### /heal <player name>
+### /heal \<player name>
 
 Heals the specific player
 
@@ -44,6 +44,6 @@ Heals the specific player
 
 Toggles freeze on players
 
-### /freeze <on|off|toggle>
+### /freeze \<on|off|toggle>
 
 Turns freeze on/off or toggles it for players
