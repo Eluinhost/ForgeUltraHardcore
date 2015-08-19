@@ -1,0 +1,15 @@
+[
+{
+  "modid": "ultrahardcore",
+  "name": "UltraHardcore",
+  "description": "Simple UltraHardcore version for Forge",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ghowden"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
